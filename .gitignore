@@ -36,6 +36,8 @@
 /tests/data
 /tutorial/data
 /install
+/out
+/docs
 
 # Libigl specific
 LibiglOptions.cmake
@@ -47,3 +49,5 @@ LibiglOptions.cmake
 
 # macos debris
 .DS_Store
+
+.vs
