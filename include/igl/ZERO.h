@@ -7,6 +7,27 @@
 // obtain one at http://mozilla.org/MPL/2.0/.
 #ifndef IGL_ZERO_H
 #define IGL_ZERO_H
+/**
+ * @mainpage libigl Documentation (unofficial)
+ * 
+ * @tableofcontents
+ * 
+ * @section useful_links Some useful links
+ * * https://doxygen.nl/manual/commands.html
+ * * https://www.doxygen.nl/manual/index.html
+ * * https://github.com/libigl/libigl
+ * * https://libigl.github.io/
+ * * @ref todo
+ * * @ref bug
+ * 
+ * @section files_covered Files covered so far
+ * * @ref igl::triangle_triangle_adjacency
+ * * @ref igl::vertex_triangle_adjacency
+ * 
+ * The source for this page is located in @ref ZERO.h
+ * @note
+ * This was a purely random choice. 
+*/
 namespace igl
 {
   // Often one needs a reference to a dummy variable containing zero as its
